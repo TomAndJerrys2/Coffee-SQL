@@ -1,0 +1,29 @@
+{
+  "name": "cynos-testing",
+  "version": "1.0.0",
+  "description": "Multi use database access tool",
+  "main": "main.js",
+  "scripts": {
+    "test": "yeet",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TomAndJerrys2/DatabaseViewer.git"
+  },
+  "keywords": [
+    "Database",
+    "SQL",
+    "Javascript",
+    "Tool"
+  ],
+  "author": "TomAndJerrys2",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TomAndJerrys2/DatabaseViewer/issues"
+  },
+  "homepage": "https://github.com/TomAndJerrys2/DatabaseViewer#readme",
+  "dependencies": {
+    "electron": "^20.0.2"
+  }
+}
