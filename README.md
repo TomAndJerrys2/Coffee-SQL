@@ -6,3 +6,5 @@ Simple and Easy tool to use for writing SQL Code, monitoring and accessing datab
 - Connect to multiple databases
 
 The point of this tool was so I could write Queries and Table data to my MS-SQL Server Whilst away.
+
+WORKING PROGRESS
