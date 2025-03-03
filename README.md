@@ -1,4 +1,4 @@
-# DatabaseViewer
+# Coffee SQL
 Simple and Easy tool to use for writing SQL Code, monitoring and accessing databases (Specifically SQL Databases)
 
 - Allows for writing queries with quick auto fill options to save time
