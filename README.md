@@ -1,5 +1,8 @@
 # Coffee SQL
-Simple and Easy tool to use for writing/viewing and editing SQL Code. Whilst monitoring and accessing databases (Specifically SQL Databases such as MSSQL and MySQL supported)
+
+![coffeesql](https://github.com/user-attachments/assets/651a4c7b-f3be-4a2a-a1cc-91f3b628080d)
+
+A Simple tool for connecting to databases and manipulating data
 
 # Features
 - Allows for writing queries with quick auto fill options to save time
@@ -7,6 +10,7 @@ Simple and Easy tool to use for writing/viewing and editing SQL Code. Whilst mon
 - Connect to multiple databases / multiple schema and/or table views
 - Dynamic windows for multiple query edits at once
 - Reactive UI Interface: Tree file-window, Responsive Nav and Tool Bar
+- Supports JSON read/write operations
 
 Built into the Coffee OS with MySQL as a Custom Database access and modifying tool
 
